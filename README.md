@@ -1,1 +1,1 @@
-# WineQT
+# Predicting the quality of wine
